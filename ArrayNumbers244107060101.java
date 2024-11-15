@@ -1,10 +1,7 @@
-import java.util.Scanner;
-
 public class ArrayNumbers244107060101 {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
+        
         int [] num = new int [4];
         num [0] = 5;
         num [1] = 12;
